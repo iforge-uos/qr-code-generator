@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "qr-code-generator"
+name = "qr_code_generator"
 version = "0.1.0"
 description = ""
 authors = ["Gobot1234 <gobot1234yt@gmail.com>"]
